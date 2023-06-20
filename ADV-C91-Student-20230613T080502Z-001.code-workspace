@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../ADV-C91-Student-20230613T080502Z-001"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ADV_97_SA-20230609T080258Z-001",
+		"liveServer.settings.port": 5501
+	}
+}
